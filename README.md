@@ -15,5 +15,4 @@ Recipe Manager je webová aplikace, která umožňuje uživatelům prohlížet, 
 
 1. **Klonování repozitáře:**
    ```bash
-   git clone https://github.com/your-repository-url.git
-   cd your-repository-directory
+   git clone https://github.com/jerryzjecny/Projekt.git
